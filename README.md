@@ -48,7 +48,7 @@ First you need to get [SimpleSAMLphp](http://simplesamlphp.org). If you installe
 
 Then run `composer update`.
 
-If you installed SimpleSAMLphp in another way (downloaded package, other repository, etc.) then you can [download the zip](https://github.com/codeenigma/linotp2/archive/master.zip) of this module and copy it into the `modules` directory of SimpleSAMLphp.
+If you installed SimpleSAMLphp in another way (downloaded package, other repository, etc.) then you can [download the zip](https://github.com/codeenigma/linotp2/archive/master.zip) of this module, unzip, rename "linotp2-master" to "linotp2" and copy it into the `modules` directory of SimpleSAMLphp.
 
 ## Operation
 
